@@ -6,20 +6,21 @@ acabar el
 ejercicio";"Estiramiento
 entre
 repeticion";"Estiramiento
-al acabar";Asistencia
+al acabar";Asistencia;Objetivo
 dia 1;Muscle Up Asistida;5;6;1.5 min;Ninguno;Hasta Acabar;3 min;De Hombros;SI, a elegir;"Primero con la banda negra
-y luego la banda morada"
-dia 1;Fondos;4;5;1 min;15.1 kg;Hasta Acabar;2 min;No;SI, a elegir;No
-dia 1;Dominada;4;6;1 min;15.1 kg;Hasta Acabar;2 min;No;SI, a elegir;No
-dia 1;Sentadillas;5;10;1 min;15.1 kg;Hasta Acabar;2 min;No;SI, a elegir;No
+y luego la banda morada";10 estrictas
+dia 1;Fondos;4;5;1 min;15.1 kg;Hasta Acabar;2 min;No;SI, a elegir;No;lastrados a 20kg
+dia 1;Dominada;4;6;1 min;15.1 kg;Hasta Acabar;2 min;No;SI, a elegir;No;lastrados a 20kg
+dia 1;Sentadillas;5;10;1 min;15.1 kg;Hasta Acabar;2 min;No;SI, a elegir;No;lastrados a 20kg
 dia 1;"Flexion de pecho 
-a una mano";5;2 (por brazo);1.5 min;Ninguno;Hasta Acabar;3min;De Hombros;SI, a elegir;No
-dia 1;Carrera;5;1;1 min;Ninguno;1.5 min;2 min;De piernas;SI, a elegir;No
+a una mano";5;2 (por brazo);1.5 min;Ninguno;Hasta Acabar;3min;De Hombros;SI, a elegir;No;10 por brazo
+dia 1;Carrera;5;1;1 min;Ninguno;1.5 min;2 min;De piernas;SI, a elegir;No;a definir
 dia 2;"Dominada con una
-una mano en banda";4;5 (por mano);1.5 min;Ninguno;Hasta Acabar;3 min;De Hombros;SI, a elegir;Banda Morada
+una mano en banda";4;5 (por mano);1.5 min;Ninguno;Hasta Acabar;3 min;De Hombros;SI, a elegir;Banda Morada;10 por brazo sin asistencia
 dia 2;"Tuck (pierna a 
-90 °)";5;1;1 min;Ninguno;20 seg;2 min;Ninguno;Ninguno;No
-dia 2;"Flexiones con 5
-dedos";4;3;1.5 min;Ninguno;Hasta Acabar;2 min;De muñecas;Ninguno;No
-dia 2;Dragon Flag;5;1;1 min;Ninguno;10 seg;2 min;De piernas;Ninguno;No
-dia 2;Reloj;4;8;1 min;Ninguno;Hasta Acabar;2 min;Ninguno;Ninguno;No
+90 °)";5;1;1 min;Ninguno;20 seg;2 min;Ninguno;Ninguno;No;front lever 60s
+dia 2;"Plancha con 5
+dedos";5;1;1.5 min;Ninguno;20s;2 min;De muñecas;Ninguno;No;20 flexiones con 5 dedos
+dia 2;Dragon Flag;5;1;1 min;Ninguno;10 seg;2 min;De piernas;Ninguno;No;60s
+dia 2;Reloj;4;8;1 min;Ninguno;Hasta Acabar;2 min;Ninguno;Ninguno;No;10 reps
+dia 2 ;one arm australian pull ups;4;5 por brazo;1 min;Ninguno;Hasta Acabar;2 min;Ninguno;Ninguno;No;10 por brazo
